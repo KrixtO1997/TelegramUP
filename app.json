@@ -1,0 +1,22 @@
+{
+  "name": "TelegramUploader",
+  "description": "TelegramUploader es un bot simple,fácil y rápido, destinado a la subida de contenido a Telegram.",
+  "env": {
+    "bot_token": {
+      "description": "Token del bot",
+      "value": ""
+    },
+    "api_id": {
+      "description": "api id de telegram",
+      "value": ""
+    },
+    "api_hash": {
+      "description": "api hash de telegram",
+      "value": ""
+    },
+    "admins": {
+      "description": "@ de admins de telegram separados por ,",
+      "value": "Krixt0"
+    }
+  }
+}
